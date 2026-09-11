@@ -46,5 +46,6 @@ public class ArrayTest {
 		System.out.println("right shift");
 		rightShift(arr2);
 		System.out.println(Arrays.toString(arr2));
+		// TESTING PUSH FROM LAPTOP
 	}
 }
