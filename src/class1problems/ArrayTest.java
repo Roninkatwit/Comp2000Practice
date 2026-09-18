@@ -40,6 +40,7 @@ public class ArrayTest {
 	public static void main(String[] args) {
 		int[] arr = { 1, 2, 3, 4, 5 };
 		int[] arr2 = { 1, 2, 3, 4, 5 };
+		System.out.println(Arrays.toString(arr));
 		System.out.println("left shift");
 		leftShift(arr);
 		System.out.println(Arrays.toString(arr));
